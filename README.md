@@ -5,7 +5,7 @@ The goal of this project is to design with SystemVerilog and verify with a testb
 For each circuit, the project includes producing the SystemVerilog code, testing the code correctness through a testbench and verifying the correct functionality of the circuit with SVA.
 
 ```text
-project/
+Design and Verification of an Up and Down Counter Counter and synchronous FIFO in System Verilog/
 ├── rtl/
 │   ├── counter16.sv
 │   └── FIFO.sv
